@@ -67,6 +67,7 @@ html {
 .btn {
     min-width: 142px;
     height: 34px;
+    line-height: 1.6rem;
     text-decoration: none;
     border: none;
     border-radius: 2px;
