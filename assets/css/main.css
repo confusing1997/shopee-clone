@@ -845,6 +845,10 @@ i
     background-color: #f5f5f5;
 }
 
+.app_content {
+    padding-top: 36px;
+}
+
 .category {
     background-color: var(--white-color);
     border-radius: 2px;
@@ -852,6 +856,7 @@ i
 
 .category__heading {
     font-size: 1.7rem;
+    margin-top: 0;
     padding: 12px 16px;
     color: var(--text-color);
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
@@ -903,3 +908,5 @@ i
     right: -4px;
     color: var(--primary-color);
 }
+
+/* Home sort + filter */
